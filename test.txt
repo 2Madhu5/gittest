@@ -1,3 +1,0 @@
-hello
-new msg is added
-from feature branch
